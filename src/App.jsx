@@ -1,12 +1,13 @@
 import './App.css'
+import HeroSection from './components/HeroSection'
 
 function App() {
 
   return (
     <>
-    <h1 className='text-red-500'>Hello React</h1>
+      <HeroSection />
     </>
   )
 }
 
-export default App
+export default App;
