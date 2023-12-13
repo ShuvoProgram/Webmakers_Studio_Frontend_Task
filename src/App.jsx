@@ -1,4 +1,5 @@
 import './App.css'
+import Company from './components/Company';
 import HeroSection from './components/HeroSection'
 
 function App() {
@@ -6,6 +7,7 @@ function App() {
   return (
     <>
       <HeroSection />
+      <Company/>
     </>
   )
 }

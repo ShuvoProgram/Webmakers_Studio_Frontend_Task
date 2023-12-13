@@ -1,6 +1,6 @@
 function HeroSection() {
   return (
-    <div className="text-center max-w-6xl mx-10">
+    <section className="text-center max-w-6xl mx-10 my-32">
     
     <h1 className="my-3 text-3xl font-bold tracking-tight text-gray-800 md:text-6xl dark:text-gray-100">Elevate Your Presence with</h1>{" "}
     <h1 className="my-3 text-3xl font-bold tracking-tight text-gray-800 md:text-6xl dark:text-gray-100">Seamless Design and Innovation.</h1>
@@ -14,7 +14,7 @@ function HeroSection() {
             href="">View Pricing
         </a>
     </div>
-</div>
+</section>
   )
 }
 
