@@ -2,6 +2,7 @@ import './App.css'
 import Company from './components/Company';
 import HeroSection from './components/HeroSection'
 import Pricing from './components/Pricing';
+import Testimonial from './components/Testimonial';
 
 function App() {
 
@@ -9,6 +10,7 @@ function App() {
     <>
       <HeroSection />
       <Company/>
+      <Testimonial/>
       <Pricing/>
     </>
   )
