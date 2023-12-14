@@ -1,6 +1,6 @@
 function Contract() {
   return (
-    <section className="flex justify-center items-center flex-col text-center max-w-6xl mx-10 mt-11">
+    <section className="flex justify-center items-center flex-col text-center max-w-6xl mx-10 mt-11 mb-16">
     <h1 className="max-w-2xl my-3 text-3xl font-bold tracking-tight text-gray-800 md:text-6xl dark:text-gray-100">No long-term contracts.
 No catches. Simple.</h1>
     <div>
