@@ -1,5 +1,6 @@
 import './App.css'
 import Company from './components/Company';
+import FrequentlyAsked from './components/FrequentlyAsked';
 import HeroSection from './components/HeroSection'
 import Pricing from './components/Pricing';
 import Testimonial from './components/Testimonial';
@@ -12,6 +13,7 @@ function App() {
       <Company/>
       <Testimonial/>
       <Pricing/>
+      <FrequentlyAsked/>
     </>
   )
 }
