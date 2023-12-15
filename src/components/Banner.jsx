@@ -30,7 +30,7 @@ const slider = [
 ]
 
 function Banner() {
-  const reviewSettings = {
+  const Settings = {
     dots: false,
     infinite: true,
     centerPadding: "60px",
@@ -74,7 +74,7 @@ function Banner() {
   return (
     <div className='py-20'>
       <div className='mx-10'>
-      <Slider {...reviewSettings}>
+      <Slider {...Settings}>
         {
           slider.map(sl => (
             <img src={sl.img} alt={sl.id} key={sl.id}/>
