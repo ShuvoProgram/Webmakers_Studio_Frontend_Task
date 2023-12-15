@@ -1,6 +1,6 @@
 # Webmakers Studio Frontend Task
 
-Webmakers Studio specializes in crafting exceptional landing pages! 🚀 Our expertise ensures bespoke designs that captivate, convert, and elevate brands to new heights. Let us transform your vision into a compelling online presence!
+![Webmakers Studio](/src/assets/websitePromo.png)
 
 ## Table of Contents
 
