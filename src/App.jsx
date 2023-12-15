@@ -1,4 +1,5 @@
 import './App.css'
+import Banner from './components/Banner';
 import Company from './components/Company';
 import Contract from './components/Contract';
 import Footer from './components/Footer';
@@ -14,6 +15,7 @@ function App() {
     <>
       <HeroSection />
       <Company/>
+      <Banner/>
       <Steps/>
       <Testimonial/>
      <div className='pt-10 bg-gradient-to-r from-gray-100 via-[#bce1ff3c] to-gray-100'>

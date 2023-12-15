@@ -2,7 +2,7 @@ import arrow from '../assets/Group.png'
 
 function Steps() {
     return (
-        <section className="mx-auto mb-20 max-w-5xl px-4 sm:px-6 lg:px-8 py-8 shadow-md">
+        <section className="mx-auto mb-20 max-w-5xl px-4 sm:px-6 lg:px-8 py-8 shadow-lg">
             <h2 className="font-headline text-2xl font-semibold sm:text-3xl text-center">How it works</h2>
             <p className="text-sm text-center mt-4">Premium designs, unlimited requests, super fast delivery, for one flat monthly fee.</p>
             <div className="grid sm:grid-cols-8 gap-16 sm:gap-8 mt-10 sm:mt-10 pb-20">
