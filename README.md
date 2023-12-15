@@ -7,8 +7,6 @@ Webmakers Studio specializes in crafting exceptional landing pages! 🚀 Our exp
 - [Introduction](#introduction)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Introduction
@@ -38,12 +36,14 @@ To run this project locally, follow these steps:
 ### Clone the Repository
 
 1. Open your terminal.
+
 2. Use the `git clone` command to clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-project.git
+   git clone https://github.com/ShuvoProgram/Webmakers_Studio_Frontend_Task.git
 ```
 3.Navigate to the project directory:
- ```bash
+```
+```bash
    cd your-project
 ```
 4. Install the necessary dependencies using npm (Node Package Manager):
@@ -58,14 +58,6 @@ To run this project locally, follow these steps:
 ```bash
    http://localhost:3000
 ```
-
-## Usage
-
-Provide examples or instructions on how to use your project. Include code snippets or screenshots if helpful.
-
-## Contributing
-
-Explain how others can contribute to your project. Guidelines for pull requests, code formatting, etc.
 
 ## License
 
