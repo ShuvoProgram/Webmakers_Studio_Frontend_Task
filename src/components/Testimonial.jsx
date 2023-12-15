@@ -1,10 +1,10 @@
-import companyLogo from '../assets/companyLogo/companyLogo.png';
 import avatar from '../assets/Avatar.png';
+
 function Testimonial() {
   return (
     <section className="relative isolate overflow-hidden bg-gray-50 px-6 py-24 sm:py-32 lg:px-8 hidden lg:block">
     <div className="mx-auto max-w-2xl lg:max-w-4xl">
-      <img className="mx-auto h-12" src={companyLogo} alt="Zilla Digital Logo"/>
+      <img className="mx-auto h-12" src="https://i.ibb.co/M1VzxtT/Companylogo.png" alt="Zilla Digital Logo"/>
       <figure className="mt-10">
         <blockquote className="text-center text-5xl font-semibold leading-8 text-gray-900 sm:text-[34px] sm:leading-9">
           <p>We’ve been with unicraft to kick start every new project and can’t imagine working without it.</p>
