@@ -1,6 +1,6 @@
 function FrequentlyAsked() {
     return (
-        <section className="dark:bg-gray-800 dark:text-gray-100">
+        <section>
             <div className="container flex flex-col justify-center p-4 mx-auto md:p-8">
                 <h2 className="text-4xl font-bold text-center text-gray-900 sm:text-5xl">Frequently Asked Questions</h2>
                 <p className="p-2 mt-2 mb-4 text-base text-gray-500 font-medium text-center">Everything you need to know about the product and billing.</p>

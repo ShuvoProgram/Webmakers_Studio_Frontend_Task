@@ -3,9 +3,9 @@ function Pricing() {
     <section>
     <div className="max-w-screen-xl px-4 py-8 mx-auto lg:py-24 lg:px-6">
         <div className=" mx-auto mb-8 text-center lg:mb-12">
-            <h2 className="mb-4 text-4xl lg:text-5xl font-bold tracking-tight text-gray-900 dark:text-white">Pricing made for collaborative support.</h2>
-            <p className="font-light text-gray-500 sm:text-xl dark:text-gray-400">Plain is made for your entire company. Only pay for users that actually</p>
-            <p className="mb-5 font-light text-gray-500 sm:text-xl dark:text-gray-400">message customers. Everyone else is free, forever.</p>
+            <h2 className="mb-4 text-4xl lg:text-5xl font-bold tracking-tight text-gray-900">Pricing made for collaborative support.</h2>
+            <p className="font-light text-gray-500 sm:text-xl">Plain is made for your entire company. Only pay for users that actually</p>
+            <p className="mb-5 font-light text-gray-500 sm:text-xl">message customers. Everyone else is free, forever.</p>
         </div>
         <div className="space-y-8 lg:grid md:grid-cols-2 lg:grid-cols-3 sm:gap-6 xl:gap-10 lg:space-y-0">
         <div className="border bg-white border-slate-200 rounded-lg shadow-sm divide-y divide-slate-200">
