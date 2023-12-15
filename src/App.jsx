@@ -5,6 +5,7 @@ import Contract from './components/Contract';
 import Footer from './components/Footer';
 import FrequentlyAsked from './components/FrequentlyAsked';
 import HeroSection from './components/HeroSection'
+import Navbar from './components/Navbar';
 import Pricing from './components/Pricing';
 import Steps from './components/Steps';
 import Testimonial from './components/Testimonial';
@@ -13,6 +14,7 @@ function App() {
 
   return (
     <>
+    <Navbar/>
       <HeroSection />
       <Company/>
       <Banner/>
