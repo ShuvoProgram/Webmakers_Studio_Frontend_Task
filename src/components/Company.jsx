@@ -7,7 +7,7 @@ import adobe from '../assets/companyLogo/Card.png';
 
 function Company() {
     return (
-        <section className="bg-white flex justify-center dark:bg-gray-900 mt-[100px]">
+        <section className="flex justify-center mt-[70px]">
             <div className='max-w-4xl'>
                 <div className='flex justify-center my-4 text-gray-400'>
                     <h1 className='text-center'>Trusted By 250+ Companies</h1>

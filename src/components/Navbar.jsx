@@ -12,7 +12,7 @@ function Navbar() {
       }, []);
 
   return (
-    <header className="sticky inset-0 z-50 border-slate-100 bg-white/80 backdrop-blur-lg">
+    <header className="sticky inset-0 z-50 border-slate-100 backdrop-blur-lg">
     <nav className="mx-auto flex justify-between max-w-6xl gap-8 px-6 transition-all duration-200 ease-in-out lg:px-12 py-4">
         <div className="relative flex items-center">
             <a href="/" className="text-gray-700 font-bold">UniCraft</a>

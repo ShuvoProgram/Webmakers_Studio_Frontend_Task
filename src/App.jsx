@@ -14,8 +14,10 @@ function App() {
 
   return (
     <>
+    <div className='pt-10 bg-gradient-to-r from-gray-100 via-[#bce1ff3c] to-gray-100'>
     <Navbar/>
       <HeroSection />
+    </div>
       <Company/>
       <Banner/>
       <Steps/>

@@ -1,6 +1,6 @@
 function HeroSection() {
   return (
-    <section className="text-center max-w-6xl mx-10 mt-11">
+    <section className="text-center max-w-6xl mx-10 mt-11 pb-20">
     <h1 className="my-3 text-3xl font-bold tracking-tight text-gray-800 md:text-6xl dark:text-gray-100">Elevate Your Presence with Seamless Design and Innovation.</h1>
     <div>
         <p className=" mx-auto my-2 text-base text-gray-600 md:leading-relaxed dark:text-gray-400">
